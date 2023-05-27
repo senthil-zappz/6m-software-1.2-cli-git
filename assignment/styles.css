@@ -1,0 +1,46 @@
+#avatar {
+    vertical-align: middle;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+
+  body{
+    margin: auto;
+    width: 640px; 
+    padding: 50px;
+    color: #ffffff;
+    background-color: #654aff;
+    font-family: "Roboto", "Arial","sans-serif";
+  }
+
+ 
+    .child-div{
+        display:table;
+        margin:0 auto;
+        color: #654aff;
+        background-color:white;
+        padding: 20px;
+        border-radius: 25px;
+       
+      }
+      .row div {
+        display: table-cell;
+        padding: 5px;
+      }
+      .col div {
+        display: table-cell;
+        padding: 5px!;
+
+      }
+     h3 {
+        text-align:center;
+     }
